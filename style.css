@@ -37,9 +37,10 @@ a {
     text-decoration: none;
     color: white;
     padding: 8px;
+    width: fit-content;
 }
 
-a:hover {
+nav a:hover {
     background-color: #11171f;
 }
 
